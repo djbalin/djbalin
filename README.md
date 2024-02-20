@@ -6,7 +6,7 @@ I'm Jan-Georges, a full-stack web developer who's passionate about making engagi
 ### <a href=https://guess-the-wiki.vercel.app/>Guess the wiki</a>
 Browser game: match titles of Wikipedia articles with snippets of their bodies!
 
-### <a href=https://guess-the-wiki.vercel.app/>Freezer tracker</a>
+### <a href=https://kummefryser-counter.vercel.app/>Freezer tracker</a>
 Home utility: Keep track of the contents of your freezer and make sure to eat your stuff before it expires!
 
 
