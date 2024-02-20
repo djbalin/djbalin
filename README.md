@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hello!
+
+I'm Jan-Georges, a full-stack web developer who's passionate about making engaging, creative, and comprehensive web solutions.
+
+
+### <a href=https://guess-the-wiki.vercel.app/>Guess the wiki</a>
+Browser game: match titles of Wikipedia articles with snippets of their bodies!
+
+### <a href=https://guess-the-wiki.vercel.app/>Freezer tracker</a>
+Home utility: Keep track of the contents of your freezer and make sure to eat your stuff before it expires!
+
+
 
 <!--
 **djbalin/djbalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
