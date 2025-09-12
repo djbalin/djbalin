@@ -6,8 +6,15 @@ I'm Jan-Georges, a full-stack web developer who's passionate about making engagi
 ### <a href=https://guess-the-wiki.vercel.app/>Guess the wiki</a>
 Browser game: match titles of Wikipedia articles with snippets of their bodies!
 
-### <a href=https://kummefryser-counter.vercel.app/>Freezer tracker</a>
-Home utility: Keep track of the contents of your freezer and make sure to eat your stuff before it expires!
+### <a href=https://janbalin.fyi/air-quality/>Air quality sensor</a>
+What's the air quality like in my room?
+
+DIY at-home air quality sensor:
+- Raspberry Pi with AHT21+ENS160 and BMP280 sensors
+- <a href=https://github.com/djbalin/raspberry-pi>Python script</a> taking measurements on the Raspberry Pi (SSH)
+- <a href=https://github.com/djbalin/air-quality-backend >Go backend</a> deployed to Railway
+- Hosted Postgres database (cockroachDB)
+- <a href=https://github.com/djbalin/freezer>Nextjs dashboard</a> for displaying the data
 
 
 
