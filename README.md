@@ -4,10 +4,9 @@ I'm Jan-Georges, a full-stack web developer who's passionate about making engagi
 
 
 ### <a href=https://janbalin.fyi/air-quality/>Air quality sensor</a>
-What's the air quality like in my room?
 
-DIY at-home air quality sensor:
-- Raspberry Pi with AHT21+ENS160 and BMP280 sensors
+DIY at-home air quality sensor.
+- Hardware: Raspberry Pi with AHT21+ENS160 and BMP280 sensors
 - <a href=https://github.com/djbalin/raspberry-pi>Python script</a> taking measurements on the Raspberry Pi (SSH)
 - <a href=https://github.com/djbalin/air-quality-backend >Go backend</a> deployed to Railway
 - Hosted Postgres database (cockroachDB)
