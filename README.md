@@ -3,9 +3,6 @@
 I'm Jan-Georges, a full-stack web developer who's passionate about making engaging, creative, and comprehensive web solutions.
 
 
-### <a href=https://guess-the-wiki.vercel.app/>Guess the wiki</a>
-Browser game: match titles of Wikipedia articles with snippets of their bodies!
-
 ### <a href=https://janbalin.fyi/air-quality/>Air quality sensor</a>
 What's the air quality like in my room?
 
@@ -15,6 +12,9 @@ DIY at-home air quality sensor:
 - <a href=https://github.com/djbalin/air-quality-backend >Go backend</a> deployed to Railway
 - Hosted Postgres database (cockroachDB)
 - <a href=https://github.com/djbalin/freezer>Nextjs dashboard</a> for displaying the data
+
+### <a href=https://guess-the-wiki.vercel.app/>Guess the wiki</a>
+Browser game: match titles of Wikipedia articles with snippets of their bodies!
 
 
 
