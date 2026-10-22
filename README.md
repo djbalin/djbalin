@@ -3,14 +3,24 @@
 I'm Jan-Georges, a full-stack web developer who's passionate about making engaging, creative, and comprehensive web solutions.
 
 
-### <a href=https://janbalin.fyi/air-quality/>Air quality sensor</a>
+### <a href=https://www.whenwhenwhen.app//>whenwhenwhen.app - a better scheduling tool</a>
 
-DIY at-home air quality sensor.
-- Hardware: Raspberry Pi with AHT21+ENS160 and BMP280 sensors
-- <a href=https://github.com/djbalin/raspberry-pi>Python script</a> taking measurements on the Raspberry Pi (SSH)
-- <a href=https://github.com/djbalin/air-quality-backend >Go backend</a> deployed to Railway
-- Hosted Postgres database (cockroachDB)
-- <a href=https://github.com/djbalin/freezer>Nextjs dashboard</a> for displaying the data
+Create a poll in seconds and with a few clicks. Give your event a title, propose dates, and share the link with your friends. Undergoing development.
+- Next.js / Supabase
+- AI-assisted coding: spec-driven development
+- <a href=https://github.com/djbalin/time-pickeri>Repo
+
+### <a href=https://www.dmiogyr.dk/>dmiogyr - weather forecasts from DMI and Yr.no side by side</a>
+
+### <a href=https://www.forlagetdit.dk/>Forlaget DIT - display site and webshop built for family relative</a>
+- Stripe & Resend integration
+- SEO-optimized: high Google search results ranking and good discoverability
+- Server-side rendered internationalization
+
+### <a href=https://www.erdetfuldmaane.dk/>Er det fuldmåne?</a>
+500 hits/month (guess when on the lunar cycle visitor numbers peak??)
+
+
 
 ### <a href=https://guess-the-wiki.vercel.app/>Guess the wiki</a>
 Browser game: match titles of Wikipedia articles with snippets of their bodies!
