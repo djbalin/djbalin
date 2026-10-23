@@ -3,12 +3,12 @@
 I'm Jan-Georges, a full-stack web developer who's passionate about making engaging, creative, and comprehensive web solutions.
 
 
-### <a href=https://www.whenwhenwhen.app//>whenwhenwhen.app - a better scheduling tool</a>
+### <a href=https://www.whenwhenwhen.app/>whenwhenwhen.app - a better scheduling tool</a>
 
 Create a poll in seconds and with a few clicks. Give your event a title, propose dates, and share the link with your friends. Undergoing development.
 - Next.js / Supabase
 - AI-assisted coding: spec-driven development
-- <a href=https://github.com/djbalin/time-pickeri>Repo
+- <a href=https://github.com/djbalin/time-picker>Repo
 
 ### <a href=https://www.dmiogyr.dk/>dmiogyr - weather forecasts from DMI and Yr.no side by side</a>
 
